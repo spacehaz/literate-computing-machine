@@ -1,0 +1,7 @@
+@import url('./__title/box__title.css');
+
+.box {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+}
